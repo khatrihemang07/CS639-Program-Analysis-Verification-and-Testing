@@ -31,15 +31,15 @@ Feel free to get creative with the input values! Whether you’re more of a `:x=
 ## 🤔 Assignment 2: Program Synthesis using Symbolic Execution
 
 ### Test Cases Galore:
-Check out my 10 test cases in the `assignment_2_231110033\Chiron-Framework\KachuaCore\example` folder.
+Check out my 10 test cases in the `assignment_2\Chiron-Framework\KachuaCore\example` folder.
 
 ### How to Run:
 
 1. **Step i: Unzip the Magic:**
-   - Extract the `Assignment_2_231110033` folder.
+   - Extract the `Assignment_2` folder.
    
 2. **Step ii: Dive into Code Editor:**
-   - Change your directory to `assignment_2_231110033\Chiron-Framework\Submission`.
+   - Change your directory to `assignment_2\Chiron-Framework\Submission`.
    - Run the script:
      ```bash
      python symbSubmission.py -b optimized1.kw -e '["x","y"]'
@@ -50,7 +50,7 @@ Check out my 10 test cases in the `assignment_2_231110033\Chiron-Framework\Kachu
    - Modify `symbSubmission.py` on lines 32 and 36 to switch test files. Go ahead, make `testfile2` feel included!
 
 ### Outputs:
-All the output files are lounging comfortably in `assignment_2_231110033\Chiron-Framework\outputs of each test case of tl file`.
+All the output files are lounging comfortably in `assignment_2\Chiron-Framework\outputs of each test case of tl file`.
 
 ### Running `sbflSubmission.py`:
 1. **Locate the File:**
@@ -73,18 +73,18 @@ All the output files are lounging comfortably in `assignment_2_231110033\Chiron-
 ## 🔍 Assignment 4: Program Analysis Verification and Testing
 
 ### (a) Example Locations:
-Check out my 5 top-tier examples in `assignment_4_231110033\Chiron-Framework\KachuaCore\tests`, complete with their JSON sidekicks.
+Check out my 5 top-tier examples in `assignment_4\Chiron-Framework\KachuaCore\tests`, complete with their JSON sidekicks.
 
 ### (b) Output Location:
-All outputs are safely stored in `assignment_4_231110033\Chiron-Framework`.
+All outputs are safely stored in `assignment_4\Chiron-Framework`.
 
 ### (c) Code Implementation:
-All required functions are packed into `assignment_4_231110033\Chiron-Framework\Submission\submissionAI.py`.
+All required functions are packed into `assignment_4\Chiron-Framework\Submission\submissionAI.py`.
 
 ### How to Run:
 
 1. **Step i: Download the Zip:**
-   - Unzip `Assignment_4_231110033`.
+   - Unzip `Assignment_4`.
 
 2. **Step ii: Open in a Code Editor:**
    - Visual Studio Code works like a charm! 🛠️
